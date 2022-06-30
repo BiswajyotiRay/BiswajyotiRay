@@ -13,7 +13,7 @@
 - 🎶 I like to listening music
 - ![Profile views](https://gpvc.arturio.dev/BiswajyotiRay)
 
-![snake gif](https://github.com/BiswajyotiRay2/BiswajyotiRay/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BiswajyotiRay/BiswajyotiRay/raw/output/github-contribution-grid-snake.gif)
 
 ### 💡 GitHub Stats
 <!-- https://github.com/shakida -->
