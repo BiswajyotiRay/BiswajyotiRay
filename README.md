@@ -9,30 +9,22 @@
 - 📖 I'm currently learning coding languages
 - 💡 I'm beginner can you teach me?
 - 🤗 You can ask me anything, *always friendly
-- ✨ I'm from West Bengal 🇮🇳 [India]
+- ✨ I'm from West Bengal[India]
 - 🎶 I like to listening music
 - ![Profile views](https://gpvc.arturio.dev/BiswajyotiRay)
 
-![snake gif](https://github.com/BiswajyotiRay/BiswajyotiRay/raw/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/BiswajyotiRay"><img alt="Snake Gif" src="https://github.com/BiswajyotiRay/BiswajyotiRay/raw/output/github-contribution-grid-snake.svg"/></a>
 
 ### 💡 GitHub Stats
 <!-- https://github.com/shakida -->
 <details> 
   <summary>💻 Profile Stats</summary>
   <br/>
-  <p align="center">
-  <a href="https://github.com/BiswajyotiRay">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biswajyoti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shakida&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <a href="https://github.com/shakida">
-  <img alt="Biswajyoti's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=BiswajyotiRay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/BiswajyotiRay"><img alt="Biswajyoti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswajyotiRay&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-  </p>
-  </a>
+  <p><a href="https://github.com/BiswajyotiRay"><img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=BiswajyotiRay&theme=tokyonight&hide_border=true"/></a></p>
+  <p><a href="https://github.com/BiswajyotiRay"><img alt="Biswajyoti's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BiswajyotiRay&show_icons=true&theme=tokyonight&hide_border=true"/></a></p>
+  <p><a href="https://github.com/BiswajyotiRay"><img alt="Biswajyoti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswajyotiRay&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/></a></p>
   <br/>
 </details>
 
-### Join main Channel
+### Join mine Channel
 <a href="https://t.me/ShakidaUpdates"><img src="https://img.shields.io/badge/TG%20Channel-%D5%8F%D5%B0%C9%91%C6%98%C3%AD%D5%AA%C9%91%20%7C%20Updates-blueviolet?style=for-the-badge&logo=telegram" /></a>
-
