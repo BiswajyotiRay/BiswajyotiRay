@@ -7,12 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BiswajyotiRay&label=Profile%20views&color=0e75b6&style=flat" alt="BiswajyotiRay" /> </p>
 
-### 🍁 About me
-- 📚 I'm 20 years old
-- 🤗 You can ask me anything, *always friendly
-- ✨ I'm from West Bengal[India]
+<h3>🍁 About me</h3>
+<p>
+I am a 20-year-old student currently studying at College. I am from West Bengal and have always had a passion for technology. I have always been interested in learning about the latest advancements in the field and love finding ways to apply them in my everyday life. In addition to my studies, I am also a friendly and approachable person who enjoys meeting new people and making connections. I am eager to continue learning and growing as a technology enthusiast.
+</p>
+<p>
+Thanks to <a href="https://chat.openai.com">ChatGPT</a> for this awesome about.
+</p>
 
-### Languages and Tools:
+
+<h4> Languages and Tools: </h4>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -30,7 +34,7 @@
 </p>
 <a href="https://github.com/BiswajyotiRay"><img alt="Snake Gif" src="https://github.com/BiswajyotiRay/BiswajyotiRay/raw/output/github-contribution-grid-snake.svg"/></a>
 
-### 💡 GitHub Stats
+<h5> 💡 GitHub Stats </h5>
 <!-- https://github.com/shakida -->
 <details> 
   <summary>💻 Profile Stats</summary>
@@ -40,6 +44,3 @@
   <p><a href="https://github.com/BiswajyotiRay"><img alt="Biswajyoti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswajyotiRay&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/></a></p>
   <br/>
 </details>
-
-### Join mine Channel
-<a href="https://t.me/ShakidaUpdates"><img src="https://img.shields.io/badge/TG%20Channel-%D5%8F%D5%B0%C9%91%C6%98%C3%AD%D5%AA%C9%91%20%7C%20Updates-blueviolet?style=for-the-badge&logo=telegram" /></a>
