@@ -5,6 +5,7 @@
 |       <b>[Biswajyoti Ray](https://github.com/BiswajyotiRay)</b>                                                                              |
 | <a href="https://twitter.com/biswajyoti_ray"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" width="40px" height="40px"></a> <a href="https://t.me/shakida69"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/telegram.svg" width="40px" height="40px"></a> <a href="mailto:tollerdl.1234@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/email.svg" width="40px" height="40px"></a> <a href="https://open.spotify.com/user/31zskautytbg476wklhfyx3msxdm?si=MLUThC4SQNq6viINQlmyeA&utm_source=copy-link"><img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/spotify.svg" width="40px" height="40px"></a>|
 
+<a href="https://app.daily.dev/biswajr"><img src="https://api.daily.dev/devcards/1f96e97582f74babadcd427546c6ad9a.png?r=psz" width="200" align="right" alt="Biswajyoti Ray's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BiswajyotiRay&label=Profile%20views&color=0e75b6&style=flat" alt="BiswajyotiRay" /> </p>
 
 <h3>🍁 About me</h3>
