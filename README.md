@@ -31,12 +31,11 @@ Thanks to <a href="https://chat.openai.com">ChatGPT</a> for this awesome about.
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://ra[w.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
-<a href="https://github.com/BiswajyotiRay"><img alt="Snake Gif" src="https://github.com/BiswajyotiRay/BiswajyotiRay/raw/output/github-contribution-grid-snake.svg"/></a>
+<a href="https://github.com/BiswajyotiRay"><img alt="Snake Gif" src="https://raw.githubusercontent.com/BiswajyotiRay/BiswajyotiRay/output/github-contribution-grid-snake-dark.svg"/></a>
 
 <h5> 💡 GitHub Stats </h5>
-<!-- https://github.com/shakida -->
 <details> 
   <summary>💻 Profile Stats</summary>
   <br/>
