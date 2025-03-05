@@ -20,7 +20,7 @@ I am a 20-year-old student currently studying at College. I am from West Bengal 
 <a href="https://github.com/BiswajyotiRay"><img alt="Snake Gif" src="https://raw.githubusercontent.com/BiswajyotiRay/BiswajyotiRay/output/github-contribution-grid-snake-dark.svg"/></a>
 
 <div align="center">
-  <a href="https://www.last.fm/user/Shakida69)">
+  <a href="https://www.last.fm/user/Shakida69">
     <img src="https://lastfm-recently-played.vercel.app/api?user=Shakida69&show_user=header&count=3&width=500&loved=true" alt="last.fm recently played"  />
   </a>
 </div>
